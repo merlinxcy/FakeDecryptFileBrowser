@@ -1,0 +1,7 @@
+C:\Users\xuchenyi-steven\source\repos\DecryptFileBrowser\bin\Release\DecryptFileBrowser.exe
+C:\Users\xuchenyi-steven\source\repos\DecryptFileBrowser\obj\Release\DecryptFileBrowser.Form1.resources
+C:\Users\xuchenyi-steven\source\repos\DecryptFileBrowser\obj\Release\DecryptFileBrowser.Properties.Resources.resources
+C:\Users\xuchenyi-steven\source\repos\DecryptFileBrowser\obj\Release\DecryptFileBrowser.csproj.GenerateResource.cache
+C:\Users\xuchenyi-steven\source\repos\DecryptFileBrowser\obj\Release\DecryptFileBrowser.csproj.CoreCompileInputs.cache
+C:\Users\xuchenyi-steven\source\repos\DecryptFileBrowser\obj\Release\DecryptFileBrowser.exe
+C:\Users\xuchenyi-steven\source\repos\DecryptFileBrowser\obj\Release\DecryptFileBrowser.csprojAssemblyReference.cache
